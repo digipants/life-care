@@ -1,0 +1,7 @@
+# robots.txt for https://www.trinetraeyecare.com/
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+Sitemap: https://www.trinetraeyecare.com/sitemap.xml
